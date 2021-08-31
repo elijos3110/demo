@@ -2,9 +2,9 @@
   "wraith": [
     {
       "Kills": 2520,
-      "Season5_Kills":1023,
-      "Special_eventkills": 5034,
-      "Special_eventdamage": 1873939
+      "Season_5_Kills":1023,
+      "Special_event_kills": 5034,
+      "Special_event_damage": 1873939
     }
   ]
 }
