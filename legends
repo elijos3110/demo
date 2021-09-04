@@ -1,0 +1,15 @@
+{"legends":
+  [
+      {"icon":"https://api.mozambiquehe.re/assets/icons/wraith.png","name":"Wraith"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/revenant.png","name":"Revenant"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/crypto.png","name":"Crypto"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/horizon.png","name":"Horizon"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/gibraltar.png","name":"Gibraltar"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/wattson.png","name":"Wattson"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/fuse.png","name":"Fuse"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/fuse.png","name":"Fuse"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/fuse.png","name":"Fuse"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/fuse.png","name":"Fuse"},
+      {"icon":"https://api.mozambiquehe.re/assets/icons/fuse.png","name":"Fuse"}
+  ]
+}
