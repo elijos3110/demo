@@ -211,6 +211,10 @@
             "name": "Season 5 Kills",
             "value": 3
         },
+         "damage": {
+            "name": "Damage",
+            "value": 2100
+        },
         "kd": {
             "value": "-1",
             "name": "KD"
