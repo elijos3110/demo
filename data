@@ -1,0 +1,349 @@
+{
+    "global": {
+        "name": "elijos3110",
+        "uid": 1008063073281,
+        "avatar": "https://secure.download.dm.origin.com/production/avatar/prod/userAvatar/34254411/416x416.JPEG",
+        "platform": "PC",
+        "level": 954,
+        "toNextLevelPercent": 44,
+        "internalUpdateCount": 41859,
+        "bans": {
+            "isActive": false,
+            "remainingSeconds": 0,
+            "last_banReason": "COMPETITIVE_DODGE_COOLDOWN"
+        },
+        "rank": {
+            "rankScore": 35,
+            "rankName": "Bronze",
+            "rankDiv": 4,
+            "ladderPosPlatform": -1,
+            "rankImg": "https://api.mozambiquehe.re/assets/ranks/bronze4.png",
+            "rankedSeason": "season10_split_1"
+        },
+        "arena": {
+            "rankName": "Silver",
+            "rankDiv": 2,
+            "ladderPosPlatform": -1,
+            "rankImg": "https://api.mozambiquehe.re/assets/ranks/silver2.png",
+            "rankedSeason": "arenass10"
+        },
+        "battlepass": {
+            "level": "-1",
+            "history": {
+                "season1": -1,
+                "season2": 111,
+                "season3": -1,
+                "season4": -1,
+                "season5": -1,
+                "season6": -1,
+                "season7": -1,
+                "season8": -1,
+                "season9": -1
+            }
+        }
+    },
+    "realtime": {
+        "lobbyState": "invite",
+        "isOnline": 1,
+        "isInGame": 1,
+        "canJoin": 0,
+        "partyFull": 0,
+        "selectedLegend": "Pathfinder"
+    },
+    "legends": {
+        "selected": {
+            "LegendName": "Pathfinder",
+            "data": [
+                {
+                    "name": "Kills",
+                    "value": 146,
+                    "key": "kills"
+                }
+            ],
+            "ImgAssets": {
+                "icon": "https://api.mozambiquehe.re/assets/icons/pathfinder.png",
+                "banner": "https://api.mozambiquehe.re/assets/banners/pathfinder.jpg"
+            }
+        },
+        "all": {
+            "Revenant": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/revenant.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/revenant.jpg"
+                }
+            },
+            "Crypto": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/crypto.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/crypto.jpg"
+                }
+            },
+            "Horizon": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/horizon.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/horizon.jpg"
+                }
+            },
+            "Gibraltar": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 29,
+                        "key": "kills"
+                    },
+                    {
+                        "name": "Gunshield damage blocked",
+                        "value": 5939,
+                        "key": "gunshield_damage_blocked"
+                    },
+                    {
+                        "name": "Season 4 Wins",
+                        "value": 1,
+                        "key": "wins_season_4"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/gibraltar.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/gibraltar.jpg"
+                }
+            },
+            "Wattson": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 81,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/wattson.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/wattson.jpg"
+                }
+            },
+            "Fuse": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/fuse.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/fuse.jpg"
+                }
+            },
+            "Bangalore": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/bangalore.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/bangalore.jpg"
+                }
+            },
+            "Wraith": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 2520,
+                        "key": "kills"
+                    },
+                    {
+                        "name": "Season 5 Wins",
+                        "value": 64,
+                        "key": "wins_season_5"
+                    },
+                    {
+                        "name": "Season 5 Kills",
+                        "value": 1023,
+                        "key": "kills_season_5"
+                    },
+                    {
+                        "name": "Special event kills",
+                        "value": 5064,
+                        "key": "specialEvent_kills"
+                    },
+                    {
+                        "name": "Special event damage",
+                        "value": 1884615,
+                        "key": "specialEvent_damage"
+                    },
+                    {
+                        "name": "Special event wins",
+                        "value": 284,
+                        "key": "specialEvent_wins"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/wraith.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/wraith.jpg"
+                }
+            },
+            "Octane": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 64,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/octane.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/octane.jpg"
+                }
+            },
+            "Bloodhound": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/bloodhound.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/bloodhound.jpg"
+                }
+            },
+            "Caustic": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 132,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/caustic.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/caustic.jpg"
+                }
+            },
+            "Lifeline": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 73,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/lifeline.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/lifeline.jpg"
+                }
+            },
+            "Pathfinder": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 146,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/pathfinder.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/pathfinder.jpg"
+                }
+            },
+            "Loba": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 66,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/loba.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/loba.jpg"
+                }
+            },
+            "Mirage": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 32,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/mirage.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/mirage.jpg"
+                }
+            },
+            "Rampart": {
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/rampart.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/rampart.jpg"
+                }
+            },
+            "Valkyrie": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 35,
+                        "key": "kills"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/valkyrie.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/valkyrie.jpg"
+                }
+            },
+            "Seer": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 20,
+                        "key": "kills"
+                    },
+                    {
+                        "name": "Damage",
+                        "value": 9276,
+                        "key": "damage"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https://api.mozambiquehe.re/assets/icons/seer.png",
+                    "banner": "https://api.mozambiquehe.re/assets/banners/seer.jpg"
+                }
+            }
+        }
+    },
+    "mozambiquehere_internal": {
+        "isNewToDB": false,
+        "claimedBy": "1631449852",
+        "APIAccessType": "BASIC",
+        "ClusterID": "4",
+        "rate_limit": {
+            "max_per_second": 3,
+            "current_req": "1"
+        },
+        "clusterSrv": "MAIN-CLUSTER"
+    },
+    "total": {
+        "kills": {
+            "name": "Kills",
+            "value": 3198
+        },
+        "gunshield_damage_blocked": {
+            "name": "Gunshield damage blocked",
+            "value": 5939
+        },
+        "wins_season_4": {
+            "name": "Season 4 Wins",
+            "value": 1
+        },
+        "wins_season_5": {
+            "name": "Season 5 Wins",
+            "value": 64
+        },
+        "kills_season_5": {
+            "name": "Season 5 Kills",
+            "value": 1023
+        },
+        "specialEvent_kills": {
+            "name": "Special event kills",
+            "value": 5064
+        },
+        "specialEvent_damage": {
+            "name": "Special event damage",
+            "value": 1884615
+        },
+        "specialEvent_wins": {
+            "name": "Special event wins",
+            "value": 284
+        },
+        "damage": {
+            "name": "Damage",
+            "value": 9276
+        },
+        "kd": {
+            "value": "-1",
+            "name": "KD"
+        }
+    }
+}
