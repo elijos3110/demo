@@ -1,23 +1,23 @@
 {
     "global": {
-        "name": "EvanPZ11",
-        "uid": 1011580768716,
-        "avatar": "https://secure.download.dm.origin.com/production/avatar/prod/1/599/416x416.JPEG",
+        "name": "evanpz11",
+        "uid": 1000750377206,
+        "avatar": "https://secure.download.dm.origin.com/production/avatar/prod/11/156/416x416.JPEG",
         "platform": "PC",
-        "level": 174,
-        "toNextLevelPercent": 25,
-        "internalUpdateCount": 5910,
+        "level": 589,
+        "toNextLevelPercent": 96,
+        "internalUpdateCount": 17125,
         "bans": {
             "isActive": false,
             "remainingSeconds": 0,
             "last_banReason": "COMPETITIVE_DODGE_COOLDOWN"
         },
         "rank": {
-            "rankScore": 2377,
-            "rankName": "Silver",
-            "rankDiv": 2,
+            "rankScore": 255,
+            "rankName": "Bronze",
+            "rankDiv": 4,
             "ladderPosPlatform": -1,
-            "rankImg": "https://api.mozambiquehe.re/assets/ranks/silver2.png",
+            "rankImg": "https://api.mozambiquehe.re/assets/ranks/bronze4.png",
             "rankedSeason": "season10_split_1"
         },
         "arena": {
@@ -28,12 +28,12 @@
             "rankedSeason": "arenass10"
         },
         "battlepass": {
-            "level": "-1",
+            "level": "111",
             "history": {
                 "season1": -1,
                 "season2": -1,
                 "season3": -1,
-                "season4": -1,
+                "season4": 111,
                 "season5": -1,
                 "season6": -1,
                 "season7": -1,
@@ -45,34 +45,18 @@
     "realtime": {
         "lobbyState": "open",
         "isOnline": 0,
-        "isInGame": 1,
+        "isInGame": 0,
         "canJoin": 0,
         "partyFull": 0,
-        "selectedLegend": "Lifeline"
+        "selectedLegend": "Seer"
     },
     "legends": {
         "selected": {
-            "LegendName": "Lifeline",
-            "data": [
-                {
-                    "name": "Kills",
-                    "value": 44,
-                    "key": "kills"
-                },
-                {
-                    "name": "Season 4 Wins",
-                    "value": 0,
-                    "key": "wins_season_4"
-                },
-                {
-                    "name": "Care package kills",
-                    "value": 0,
-                    "key": "care_package_kills"
-                }
-            ],
+            "LegendName": "Seer",
+            "data": [],
             "ImgAssets": {
-                "icon": "https://api.mozambiquehe.re/assets/icons/lifeline.png",
-                "banner": "https://api.mozambiquehe.re/assets/banners/lifeline.jpg"
+                "icon": "https://api.mozambiquehe.re/assets/icons/seer.png",
+                "banner": "https://api.mozambiquehe.re/assets/banners/seer.jpg"
             }
         },
         "all": {
@@ -80,18 +64,18 @@
                 "data": [
                     {
                         "name": "Kills",
-                        "value": 26,
+                        "value": 97,
                         "key": "kills"
                     },
                     {
-                        "name": "AR kills",
-                        "value": 0,
-                        "key": "ar_kills"
+                        "name": "SMG kills",
+                        "value": 23,
+                        "key": "smg_kills"
                     },
                     {
-                        "name": "Season 4 Wins",
-                        "value": 0,
-                        "key": "wins_season_4"
+                        "name": "Season 5 Kills",
+                        "value": 3,
+                        "key": "kills_season_5"
                     }
                 ],
                 "ImgAssets": {
@@ -136,41 +120,12 @@
                 }
             },
             "Wraith": {
-                "data": [
-                    {
-                        "name": "Kills",
-                        "value": 148,
-                        "key": "kills"
-                    },
-                    {
-                        "name": "Season 6 Wins",
-                        "value": 5,
-                        "key": "wins_season_6"
-                    }
-                ],
                 "ImgAssets": {
                     "icon": "https://api.mozambiquehe.re/assets/icons/wraith.png",
                     "banner": "https://api.mozambiquehe.re/assets/banners/wraith.jpg"
                 }
             },
             "Octane": {
-                "data": [
-                    {
-                        "name": "Kills",
-                        "value": 26,
-                        "key": "kills"
-                    },
-                    {
-                        "name": "Top 3",
-                        "value": 6,
-                        "key": "top_3"
-                    },
-                    {
-                        "name": "Season 6 Wins",
-                        "value": 1,
-                        "key": "wins_season_6"
-                    }
-                ],
                 "ImgAssets": {
                     "icon": "https://api.mozambiquehe.re/assets/icons/octane.png",
                     "banner": "https://api.mozambiquehe.re/assets/banners/octane.jpg"
@@ -189,46 +144,12 @@
                 }
             },
             "Lifeline": {
-                "data": [
-                    {
-                        "name": "Kills",
-                        "value": 44,
-                        "key": "kills"
-                    },
-                    {
-                        "name": "Care package kills",
-                        "value": 0,
-                        "key": "care_package_kills"
-                    },
-                    {
-                        "name": "Season 4 Wins",
-                        "value": 0,
-                        "key": "wins_season_4"
-                    }
-                ],
                 "ImgAssets": {
                     "icon": "https://api.mozambiquehe.re/assets/icons/lifeline.png",
                     "banner": "https://api.mozambiquehe.re/assets/banners/lifeline.jpg"
                 }
             },
             "Pathfinder": {
-                "data": [
-                    {
-                        "name": "Kills",
-                        "value": 100,
-                        "key": "kills"
-                    },
-                    {
-                        "name": "LMG kills",
-                        "value": 10,
-                        "key": "lmg_kills"
-                    },
-                    {
-                        "name": "Season 5 Wins",
-                        "value": 2,
-                        "key": "wins_season_5"
-                    }
-                ],
                 "ImgAssets": {
                     "icon": "https://api.mozambiquehe.re/assets/icons/pathfinder.png",
                     "banner": "https://api.mozambiquehe.re/assets/banners/pathfinder.jpg"
@@ -268,7 +189,7 @@
     },
     "mozambiquehere_internal": {
         "isNewToDB": false,
-        "claimedBy": "1626824441",
+        "claimedBy": "1631090729",
         "APIAccessType": "BASIC",
         "ClusterID": "1",
         "rate_limit": {
@@ -280,35 +201,15 @@
     "total": {
         "kills": {
             "name": "Kills",
-            "value": 344
+            "value": 97
         },
-        "ar_kills": {
-            "name": "AR kills",
-            "value": 0
+        "smg_kills": {
+            "name": "SMG kills",
+            "value": 23
         },
-        "wins_season_4": {
-            "name": "Season 4 Wins",
-            "value": 0
-        },
-        "wins_season_6": {
-            "name": "Season 6 Wins",
-            "value": 6
-        },
-        "top_3": {
-            "name": "Top 3",
-            "value": 6
-        },
-        "care_package_kills": {
-            "name": "Care package kills",
-            "value": 0
-        },
-        "lmg_kills": {
-            "name": "LMG kills",
-            "value": 10
-        },
-        "wins_season_5": {
-            "name": "Season 5 Wins",
-            "value": 2
+        "kills_season_5": {
+            "name": "Season 5 Kills",
+            "value": 3
         },
         "kd": {
             "value": "-1",
